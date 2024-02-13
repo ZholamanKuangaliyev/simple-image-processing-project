@@ -7,5 +7,5 @@ This is before the processing:
 This is after processing:
 ![image](https://github.com/ZholamanKuangaliyev/simple-image-processing-project/assets/112862577/8a6d3a6f-ba85-4319-b2d7-bc9b699fc2cc)
 
-###
+***
 If you want to put your own image change file_name to the name of your image. Also, you can pley with various radius of the circles.
